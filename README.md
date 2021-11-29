@@ -1,2 +1,2 @@
 # Lab6_PRiR
-(lab6ss)
+(lab6ss.PNG)
