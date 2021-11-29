@@ -1,2 +1,4 @@
 # Lab6_PRiR
-(lab6ss.PNG)
+
+Poniżej dołączam zrzut z terminalu.
+!(lab6ss.PNG)
